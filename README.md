@@ -37,7 +37,7 @@ Source Code: https://github.com/animeshmaji/DGTIONAgency/
 🔔 Don't forget to like, comment, and subscribe for more amazing web development tutorials!
 
 📢 Follow us for updates:
-YouTube: https://www.youtube.com/channel/UCM2fAU1oR3k4VCEMAkq4fcA?sub_confirmation=1
+
 Social Media Profile: https://bit.ly/m/AnimeshMaji
 
 #AnimeshMaji #TheAnimeshMaji #DGTION #DGTIONAgency
